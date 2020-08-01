@@ -1,0 +1,9 @@
+image: samueldebruyn/debian-git
+
+pipelines:
+  default:
+    - step:
+        script:
+          - apt-get update
+          - apt-get -qq install git-ftp
+          - git ftp push --user u913978505.techsperiaaip --passwd techsperia-pass ftp://techsperia.com/ --insecure

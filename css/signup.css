@@ -1,0 +1,423 @@
+/* for background images */
+.forloginbackground {
+    background-image: url("../images/LoginPage_Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+}
+
+.logincontentdiv {
+    justify-content: center;
+    display: flex;
+}
+
+.contentstartd {
+    background:
+        rgba(227, 226, 226, 0.64);
+    width: 404px;
+    margin-top: 47px;
+    height: 510px;
+    border-radius: 14px;
+}
+
+.contentstared11 {
+    background: rgb(255, 255, 255);
+    width: 382px;
+    height: 490px;
+    border-radius: 14px;
+    margin-top: 10px;
+    margin-left: 11px;
+}
+
+.logintoaip {
+    font-size: 34px;
+    line-height: 40px;
+    color:
+        #141414;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.logintoaip1 {
+    font-size: 34px;
+    line-height: 40px;
+    color:
+        #141414;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+/* for from */
+/* Bordered form */
+.input1 {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ecebeb;
+    box-sizing: border-box;
+    margin-top: -4px;
+    background-color: #fff;
+    font-size: 14px;
+}
+
+.Email_or_User_Name {
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Add a hover effect for buttons */
+.loginde:hover {
+    opacity: 0.8;
+}
+
+.lebel1design {}
+
+/* Set a style for all buttons */
+.loginde {
+    background-color: #4CAF50;
+    color: white;
+    margin: 12px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding-bottom: 8px;
+    padding-top: 7px;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.loginde1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(88, 88, 88);
+    margin: 15px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 5px 20px;
+    border: 1px solid #eee;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.lebel1design1 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.lebel1design1:hover {
+    color: #339933 !important;
+}
+
+.lebel1design {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #222;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.lebel1desig {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.dhaveanaccount {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #535353;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+.dhaveanaccountsignup {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+
+.dhaveanaccountsignup:hover {
+    color: #339933;
+}
+
+.Registration_From {
+    font-size: 45px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-top: 50px;
+}
+
+.Lorem_Ipsum_is {
+    font-size: 14px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: 14px;
+}
+
+.Contact_Information {
+    font-size: 30px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 25px;
+    border-bottom: 1px solid#e8e8e8;
+    padding-bottom: 10px;
+}
+
+.lastnameml {
+    margin-left: 20px;
+}
+
+/* for row padding up and down */
+.rowpaddingtb {
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+/* for payment part */
+.Ahrefs_Standard {
+    font-size: 25px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.monthly_week {}
+
+.for999 {
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.for9991 {
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.for9992 {
+    font-size: 25px;
+    line-height: 50px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.monthly_week {
+    font-size: 25px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -24px;
+}
+
+.ahssption {
+    margin-top: -15px;
+}
+
+.forpaddingmain {
+    padding-left: 20px;
+}
+
+.subtotalde {
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-top: 33px;
+}
+
+.subtotalde1 {
+    font-size: 19px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -18px;
+}
+
+.subtotalde2 {
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-top: 33px;
+}
+
+.subtotalde3 {
+    font-size: 24px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -18px;
+}
+
+.fortotalcalculation {
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.fortotalcalculation1 {
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.subtotalbackgroundd {
+    border-bottom: 1px solid rgb(214, 211, 211);
+    border-top: 1px solid rgb(207, 207, 207);
+    padding-bottom: 20px;
+}
+
+.subtotalbackgroundd1 {
+    background-color:
+        #e8e7e5;
+    padding-top: 30px;
+}
+
+.fortotalcalculation2 {
+    text-align: center;
+    margin-top: 50PX;
+    color: #106d09;
+    border: 1px solid #389732;
+    padding-top: 10px;
+    background-color:
+        #e1f9e1;
+    font-size: 18px;
+    line-height: 35px;
+    color:
+        #28982c;
+    font-family: "Roboto";
+    font-weight: 400;
+    font-style: italic;
+}
+
+.Credit_Card_Details {
+    font-size: 20px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: 14px;
+    margin-bottom: 10px;
+}
+
+.input-group-prepend {
+    position: relative;
+    left: 306px;
+    top: -47px;
+}
+
+.input-group-text {
+    height: 39px;
+}
+
+.questioncircle {
+    position: absolute;
+    margin-left: -35px;
+    top: 35px;
+}
+
+.This_purchase_is {
+    font-size: 24px;
+    line-height: 35px;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: 25px;
+    letter-spacing: .5px;
+}
+
+.FastSpring {
+    font-size: 14px;
+    line-height: 22px;
+    color: rgb(0, 0, 0);
+    font-family: "Roboto";
+    font-weight: 400;
+    letter-spacing: .5px;
+}
+
+.Terms_of_Service {
+    font-size: 14px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+.complete_order {
+    color:rgb(255, 255, 255);
+    background-color:#339933;
+    font-size: 16px;
+    line-height: 18px;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    padding-top: 14px;
+    padding-right: 55px;
+    padding-bottom: 14px;
+    padding-left: 55px;
+    border-radius: 25px;
+    border: 1px solid #339933;
+}
+.complete_order_margin{
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.We_use_industry-standard{
+    font-size: 13px;
+letter-spacing: .4px;
+line-height: 20px;
+color: #282828;
+font-family: "Roboto";
+font-weight: 400;
+margin-bottom: 100px;
+}
+.We_use_industry-standard1{
+    font-size: 13px;
+line-height: 20px;
+color: #339933;
+font-family: "Roboto";
+font-weight: 400;
+}

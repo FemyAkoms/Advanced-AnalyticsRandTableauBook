@@ -1,0 +1,152 @@
+/* for background images */
+.forloginbackground {
+    background-image: url("../images/LoginPage_Banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+}
+
+.logincontentdiv {
+    justify-content: center;
+    display: flex;
+}
+
+.contentstartd {
+    background:
+        rgba(227, 226, 226, 0.64);
+    width: 404px;
+    margin-top: 47px;
+    height: 510px;
+    border-radius: 14px;
+}
+
+.contentstared11 {
+    background: rgb(255, 255, 255);
+    width: 382px;
+    height: 490px;
+    border-radius: 14px;
+    margin-top: 10px;
+    margin-left: 11px;
+}
+
+.logintoaip {
+    font-size: 34px;
+    line-height: 40px;
+    color:
+        #141414;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 25px;
+}
+
+.logintoaip1 {
+    font-size: 34px;
+    line-height: 40px;
+    color:
+        #141414;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+/* for from */
+/* Bordered form */
+.input1 {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #f7eca6;
+    box-sizing: border-box;
+    margin-top: -4px;
+    background-color:#fff7c6;
+    font-size: 14px;
+}
+
+.Email_or_User_Name {
+    margin-bottom: 10px;
+}
+
+
+
+
+/* Add a hover effect for buttons */
+.loginde:hover {
+    opacity: 0.8;
+}
+
+.lebel1design {}
+
+/* Set a style for all buttons */
+.loginde {
+background-color:#4CAF50;
+color:white;
+margin: 12px 0;
+border: none;
+cursor: pointer;
+width: 100%;
+padding-bottom: 8px;
+padding-top: 7px;
+font-weight: 700;
+font-size: 18px;
+}
+
+.loginde1 {
+    background-color: rgb(255, 255, 255);
+    color: rgb(88, 88, 88);
+    margin: 15px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    padding: 5px 20px;
+    border: 1px solid #eee;
+    font-size: 20px;
+    margin-bottom: 35px;
+}
+
+.lebel1design1 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+.lebel1design1:hover{
+    color: #339933 !important;
+}
+
+.lebel1design {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #222;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.dhaveanaccount {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #535353;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+.dhaveanaccountsignup {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 22px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 400;
+
+}
+.dhaveanaccountsignup:hover{
+    color: #339933;
+}

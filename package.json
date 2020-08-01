@@ -1,0 +1,15 @@
+{
+  "name": "equity",
+  "version": "1.0.0",
+  "description": "tax type",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/index.css -w"
+  },
+  "author": "subrata",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.13.0"
+  },
+  "dependencies": {}
+}

@@ -1,0 +1,162 @@
+.coinandtree {
+    background-image: url("../images/Dashboard_banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 162px;
+    width: 100%;
+}
+
+.about_aip {
+
+    font-size: 60px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.about_aip1 {
+    margin-top: 0px;
+}
+
+.home_on_image {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.angleright {
+    color: rgb(156, 156, 156);
+    padding-left: 20px;
+}
+
+.ABOUT_AIP_SOFTWARE {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+/* for section 2 */
+.Account_Activated_Two{
+    font-size: 45px;
+line-height: 50px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 700;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 35px;
+}
+.It_has_survived{
+    font-size: 14px;
+line-height: 22px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 400;
+text-align: left;
+}
+.It_has_survived1{
+    font-size: 14px;
+line-height: 22px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 400;
+text-align: left;
+margin-top: 20px;
+}
+.only_five_centuries{
+   background-color:#f6f6f6;
+}
+.only_five_centuries1{
+  margin: 15px;
+  padding-top: 50px;
+}
+/* for input file */
+/* Bordered form */
+.input1 {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ecebeb;
+    box-sizing: border-box;
+    margin-top: -4px;
+    background-color: #fff;
+    font-size: 14px;
+}
+
+.Email_or_User_Name {
+    margin-bottom: 10px;
+}
+/* for row padding up and down */
+.rowpaddingtb {
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.lebel1design {
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 22px;
+    color: #222;
+    font-family: "Roboto";
+    font-weight: 404;
+}
+.rowpaddingtb1{
+    margin-right: 15px;
+}
+.lastnameml1{
+    margin-top: -10px;
+}
+.input3{
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ecebeb;
+    box-sizing: border-box;
+    margin-top: -4px;
+    /* background-color: #fff; */
+    font-size: 14px;
+}
+.control_fromdesign{
+    border-radius: 0px !important;
+border: 1px solid #ecebeb !important;
+padding-left: 20px;
+font-size: 14px;
+}
+/* FOR LAST BUTTON */
+.complete_orderbutton{
+    color:rgb(255, 255, 255);
+    background-color:#339933;
+    font-size: 16px;
+    line-height: 18px;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    padding: 10px;
+    padding-top: 14px;
+    padding-right: 30px;
+    padding-bottom: 14px;
+    padding-left: 30px;
+    border-radius: 25px;
+    border: 1px solid #339933;
+    margin-bottom: 40px;
+    margin-top: 20px;
+    letter-spacing: 0.5px;
+}
+.complete_orderbutton1{
+    text-align: center;
+    margin-top: 15px;
+}

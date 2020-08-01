@@ -1,0 +1,168 @@
+.coinandtree {
+    background-image: url("../images/allpage_banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 380px;
+    width: 100%;
+}
+
+.about_aip {
+
+    font-size: 60px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-top: 165px;
+}
+
+.about_aip1 {
+    margin-top: 120px;
+}
+
+.home_on_image {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.angleright {
+    color: rgb(156, 156, 156);
+    padding-left: 20px;
+}
+
+.ABOUT_AIP_SOFTWARE {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.ABOUT_AIP_SOFTWARE1 {
+    font-size: 45px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-top: 55px;
+}
+
+.ABOUT_AIP_SOFTWARE2 {
+    font-size: 14px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    padding-bottom: 45px;
+
+}
+
+.carousel-control-prev-icon {
+
+    height: 25px !important;
+    position: relative;
+    background-image: url("../images/59121.png") !important;
+
+}
+
+.carousel-control-prev {
+    color: black !important;
+    left: -76px !important;
+    top: -75px !important;
+}
+
+.carousel-control-next-icon {
+
+    height: 25px !important;
+    position: relative;
+    background-image: url("../images/right2.png") !important;
+}
+
+.carousel-control-next {
+    color: black !important;
+    right: -79px !important;
+    top: -75px !important;
+}
+.subscripbtion{
+    background-image: url("../images/Layout 2ib(5).png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 640px;
+    /* height: 100vh; */
+}
+.subscripbtion .subtext{
+    
+    font-size: 4.5rem;
+    line-height: 50px;
+    color: #fff;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+}
+@media(max-width:991px) {
+
+    .carousel-control-next {
+        color: black !important;
+        right: 0px !important;
+        top: -61px;
+    }
+
+}
+@media(max-width:991px) {
+
+    .carousel-control-prev {
+        left: 0px !important;
+        top: -61px;
+    }
+
+}
+.backgroundblde{
+    background-image: url("../images/AboutUs_blue_bg_effect.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 860px;
+    width: 100%;
+    background-color: #003770;
+    margin-top: -200px;
+    padding-top: 270px;
+}
+
+.Repayment_Calculator{
+    font-size: 35px;
+line-height: 50px;
+color: #ffffff;
+font-family: "Roboto";
+font-weight: 400;
+}
+.Repayment_Calculator1{
+    font-size: 16px;
+
+color: #ffffff;
+font-family: "Roboto";
+font-weight: 400;
+}
+.Repayment_Calculator3{
+  padding-left: 80px;
+}
+.Repayment_Calculator4{
+    padding-right: 80px;
+  }
+  .Repayment_Calculator5{
+    padding-top: 40px;
+  }
+  .Repayment_Calculator6{
+    font-size: 35px;
+line-height: 50px;
+color: #ffffff;
+font-family: "Roboto";
+font-weight: 400;
+  }
+  

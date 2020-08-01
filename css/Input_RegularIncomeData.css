@@ -1,0 +1,243 @@
+.wellcomeiconde{
+  color: #003770;
+}
+.Input_Data_Form{
+  font-size: 20px;
+letter-spacing: 0px;
+line-height: 30px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 500;
+padding-left: 20px;
+
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.inputdata_filedesign{
+  margin-top: 30px;
+  border-radius: 10px;
+}
+/* last doller section */
+.flex-container{
+  display: flex;
+}
+.Property_Value{
+  font-size: 13.5px;
+color:#6d6c6c;
+font-family: "Roboto";
+font-weight: 400;
+background-color:#eaeaea;
+border-radius: 25px;
+padding-top: 9px;
+margin-bottom: 15px;
+padding-left: 20px;
+width: 265px;
+}
+.Property_Value1{
+  font-size: 13.5px;
+color:#6d6c6c;
+font-family: "Roboto";
+font-weight: 400;
+background-color:#eaeaea;
+border-radius: 25px;
+padding-top: 9px;
+margin-bottom: 15px;
+padding-left: 20px;
+width: 265px;
+}
+.fordollerdesign{
+  border-radius: 25px !important;
+height: 38px;
+width: 38px;
+margin-left: -43px;
+z-index: 5;
+color:
+#000 !important;
+font-size: 17px;
+font-weight: 700;
+}
+.forfromcontrolde{
+  border-radius: 26px !important;
+  padding-left: 43px;
+  margin-left: -43px;
+z-index: 1;
+width: 150px !important;
+}
+.forfromcontroldepersen{
+  border-radius: 26px !important;
+  padding-left: 17px;
+  margin-left: -43px;
+z-index: 1;
+width: 150px !important;
+}
+.idfdesign{
+  margin: 30px ;
+}
+.textmort1 {
+  height: 37px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  color: #000000;
+  font-family: "Roboto";
+  font-weight: 400;
+  border: 1px solid white;
+  width: 155px;
+}
+
+
+.textmort2 {
+  position: relative;
+  left: -25px;
+}
+.fordollerdesignpersen{
+  border-radius: 25px !important;
+height: 38px;
+width: 38px;
+margin-left: -38px;
+z-index: 5;
+color:
+#000 !important;
+font-size: 17px;
+font-weight: 700;
+}
+
+.complete_order {
+  color:rgb(255, 255, 255);
+  background-color:#339933;
+  font-size: 16px;
+  line-height: 18px;
+  font-family: "Roboto";
+  font-weight: 700;
+  text-align: center;
+  padding: 10px;
+  padding-top: 14px;
+  padding-right: 55px;
+  padding-bottom: 14px;
+  padding-left: 55px;
+  border-radius: 25px;
+  border: 1px solid #339933;
+  margin-bottom: 30px;
+  margin-top: 20px;
+}
+
+.leftbluesidesign{
+  width: 270px;
+  height: 715px;
+  border-radius: 15px;
+  background-color: #003770;
+}
+.rightwhitesidesignd {
+  width: 100%;
+  height:730px;
+  border-radius: 15px;
+  background-color: #eff1f5;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* for table */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  border-bottom: 10px solid #003770;
+}
+
+th  {
+  text-align: left;
+  padding: 8px;
+  font-size: 0.8rem !important;
+font-weight: 412 !important;
+}
+td {
+  text-align: left;
+  padding: 8px;
+  font-size: 0.8rem !important;
+font-weight: 400 !important;
+}
+
+tr:nth-child(even){background-color: #edf1f9}
+.table_row_design{
+  background-color:#003770;
+  height: 45px;
+  color:white;
+}
+.table_row_design1{
+  background-color: #f2f7fd;
+  font-size: 12px;
+letter-spacing: 0px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 700;
+}
+.table_row_design2{
+  background-color: #ffffff;
+  font-size: 12px;
+letter-spacing: 0px;
+color: #050505;
+font-family: "Roboto";
+font-weight: 700;
+}
+
+.control_input_from{
+  border-radius: 25px;
+width: 166px;
+height: 31px;
+font-size: 13px;
+}
+.control_input_fromdesign{
+    border-radius: 25px;
+width: 99px;
+height: 31px;
+font-size: 13px;
+}
+
+.control_input_from1{
+  border-radius: 25px;
+width: 80px;
+height: 31px;
+font-size: 13px;
+}
+.control_input_from2{
+  border-radius: 25px;
+width: 100px;
+height: 31px;
+font-size: 13px;
+}
+.control_input_from3{
+  border-radius: 25px;
+width: 115px;
+height: 31px;
+font-size: 13px;
+border: 1px solid
+#d9d9d9;
+font-family: "Roboto";
+}
+.control_input_from4{
+  border-radius: 25px;
+width: 115px;
+height: 31px;
+font-size: 13px;
+border: 1px solid
+#d9d9d9;
+font-family: "Roboto";
+}
+.btnsuccessde{
+  background-color:#319a3b;
+color: rgb(255, 255, 255);
+border-radius: 25px;
+height: 33px;
+padding-top: 1px;
+padding-right: 15px;
+padding-bottom: 1px;
+padding-left: 15px;
+margin-top: 0px;
+font-weight: 500;
+
+}
+.iredp{
+    padding: 12px;
+    margin-top: 15px;
+}

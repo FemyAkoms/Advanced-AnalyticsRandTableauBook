@@ -1,0 +1,220 @@
+/* for pricing design */
+.pricing .card {
+    border: none;
+    border-radius: 1rem;
+    transition: all 0.2s;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+    margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+    margin: 0.5rem 0;
+    font-size: 0.9rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+}
+
+.pricing .card-price {
+    font-size: 3rem;
+    margin: 0;
+}
+
+.pricing .card-price .period {
+    font-size: 0.8rem;
+}
+
+.pricing ul li {
+    margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+    opacity: 0.7;
+}
+
+.pricing .btn {
+    font-size: 80%;
+    border-radius: 5rem;
+    letter-spacing: .1rem;
+    font-weight: bold;
+    padding: 1rem;
+    opacity: 0.7;
+    transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+    .pricing .card:hover {
+        margin-top: -.25rem;
+        margin-bottom: .25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+    }
+
+    .pricing .card:hover .btn {
+        opacity: 1;
+    }
+}
+
+/* pricing main container end */
+.pricingtoptext {
+    background-image: linear-gradient(0deg, #fb1959 0%, #b61670 100%);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+.pricingtoptext1 {
+    font-size: 14px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+    padding-top: 7px;
+}
+
+.pricingtoptext2 {
+    font-size: 30px;
+    letter-spacing: 1px;
+    line-height: 24px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+    margin-top: -3px;
+}
+
+.pricingtoptext3 {
+    font-size: 13px;
+    letter-spacing: 1px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+    margin-top: -14px;
+}
+
+.card_b_t {
+    border-bottom: 1px solid rgb(216, 216, 216);
+    font-size: 14px;
+    letter-spacing: -1px;
+    line-height: 8px;
+    color: #505050;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+.card_b_t1 {
+    border-bottom: 1px solid rgb(216, 216, 216);
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 7px;
+    color: #686868;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+    padding-top: 17px;
+}
+
+.card_b_t3 {
+    border-bottom: 1px solid rgb(216, 216, 216);
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 7px;
+    color: #686868;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+    padding-top: 11px;
+}
+
+.card_b_t2 {
+    border-bottom: 1px solid rgb(216, 216, 216);
+    font-size: 13px;
+    letter-spacing: 1px;
+    line-height: 8px;
+    color: #686868;
+    font-family: "Roboto";
+    font-weight: 400;
+    text-align: center;
+}
+
+.gtpn {
+    margin-top: 30px !important;
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    letter-spacing: 0px !important;
+    font-size: 15px !important;
+}
+
+/* for 2nd pricing tab */
+.pricingtoptext11 {
+    background-image: linear-gradient(0deg, #05afc9 0%, #035de4 100%);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+.pricingtoptext22 {
+    background-image: linear-gradient(0deg, #ecb739 0%, #ff633c 100%);
+    border-top-left-radius: 1rem;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 0rem;
+    border-bottom-left-radius: 0rem;
+}
+
+.forstarimage {
+    height: 60px;
+    display: inline-block;
+    position: absolute;
+    top: 12px;
+    left: 7px;
+}
+
+.monthly1year {
+    left: 45px;
+    position: relative;
+    top: 106px;
+}
+
+@media(max-width:991px) {
+    .monthly1year {
+        left: 0px;
+        position: relative;
+        top: 0px;
+    }
+}
+
+/* for last section */
+.gtpn1 {
+    padding-top: 10px !important;
+    padding-bottom: 10px !important;
+    letter-spacing: 0px !important;
+    font-size: 15px !important;
+    padding-left: 80px;
+    padding-right: 80px;
+
+}
+
+.gtpn2 {
+    font-size: 40px;
+    line-height: 45px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.gtpn3 {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 30px;
+}

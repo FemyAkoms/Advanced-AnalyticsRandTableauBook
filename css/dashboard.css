@@ -1,0 +1,721 @@
+.vdp-datepicker * {
+  /* box-sizing: border-box; */
+  border: none!important;
+  width: 100%;
+}
+.vdp-datepicker input:focus {
+  outline: -webkit-focus-ring-color auto 0px;
+}
+.coinandtree {
+  background-image: url("../images/Dashboard_banner.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 162px;
+  width: 100%;
+}
+
+.about_aip {
+  font-size: 60px;
+  line-height: 50px;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: bold;
+  padding-top: 50px;
+}
+
+.about_aip1 {
+  margin-top: 0px;
+}
+
+.home_on_image {
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  color: #339933;
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+.angleright {
+  color: rgb(156, 156, 156);
+  padding-left: 20px;
+}
+
+.ABOUT_AIP_SOFTWARE {
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 40px;
+  color: #ffffff;
+  font-family: "Roboto";
+  font-weight: 700;
+  padding-left: 20px;
+}
+
+.flex-container {
+  display: flex;
+}
+
+/* for left blue side */
+.leftblueside {
+  width: 270px;
+  height: 1120px;
+  border-radius: 15px;
+  background-color: #003770;
+}
+.labeldata{
+  display: none;
+}
+@media (max-width: 991px) {
+  .leftblueside {
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+    background-color: #003770;
+  }
+}
+
+.rightwhiteside {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+  background-color: #eff1f5;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.rightwhiteside1 {
+  padding-top: 15px;
+  border-bottom: 1px solid #cfd8e1;
+}
+
+.rightwhiteside2 {
+  margin-bottom: -5px;
+}
+
+.sectionbackground {
+  background-color: #eff1f5;
+  height: auto;
+  border-top-right-radius: 1rem;
+  border-bottom-right-radius: 1rem;
+}
+
+.wellcomedm {
+  font-size: 35px;
+  line-height: 50px;
+  color: #000000;
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+.wellcomedm1 {
+  font-size: 35px;
+  line-height: 50px;
+  color: #003770;
+  font-family: "Roboto";
+  font-weight: 700;
+}
+
+.Dashboard_for {
+  font-size: 16px;
+  line-height: 39px;
+  color: #7b7b7b;
+  font-family: "Roboto";
+  font-weight: 400;
+  border-radius: 25px;
+  background-color: rgb(224, 229, 234);
+  height: 40px;
+  padding-left: 22px;
+  padding-right: 46px;
+  position: relative;
+  left: 12px;
+}
+
+.textmort1 {
+  height: 40px;
+  border-radius: 20px;
+  background-color: #ffffff;
+  font-size: 19px;
+  letter-spacing: 0px;
+  line-height: 40px;
+  color: #000000;
+  font-family: "Roboto";
+  font-weight: 400;
+  border: 1px solid white;
+  padding-left: 5px;
+  padding-right: 0px;
+}
+
+.textmort2 {
+  position: relative;
+  left: -15px;
+}
+
+/* .sectionmarginright {
+    margin-right: 15px;
+    } */
+
+    /* for pricing design */
+    .pricing .card {
+      border: none;
+      border-radius: 1rem;
+      transition: all 0.2s;
+      box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+    }
+
+    .pricing hr {
+      margin: 1.5rem 0;
+    }
+
+    .pricing .card-title {
+      margin: 0.5rem 0;
+      font-size: 0.9rem;
+      letter-spacing: 0.1rem;
+      font-weight: bold;
+    }
+
+    .pricing .card-price {
+      font-size: 3rem;
+      margin: 0;
+    }
+
+    .pricing .card-price .period {
+      font-size: 0.8rem;
+    }
+
+    .pricing ul li {
+      margin-bottom: 1rem;
+    }
+
+    .pricing .text-muted {
+      opacity: 0.7;
+    }
+
+    .pricing .btn {
+      font-size: 80%;
+      border-radius: 5rem;
+      letter-spacing: 0.1rem;
+      font-weight: bold;
+      padding: 1rem;
+      opacity: 0.7;
+      transition: all 0.2s;
+    }
+
+    /* Hover Effects on Card */
+
+    @media (min-width: 992px) {
+      .pricing .card:hover {
+        margin-top: -0.25rem;
+        margin-bottom: 0.25rem;
+        box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+      }
+
+      .pricing .card:hover .btn {
+        opacity: 1;
+      }
+    }
+
+    .card {
+      margin-left: -15px;
+    }
+
+    .Analytic_Overview {
+      font-size: 25px;
+      letter-spacing: 1px;
+      line-height: 30px;
+      color: #000000;
+      font-family: "Roboto";
+      font-weight: 700;
+      margin-top: 25px;
+    }
+
+    .cardbg1 {
+      background-image: linear-gradient(90deg, #1bc98d 0%, #4fa151 100%);
+    }
+
+    .cardbg2 {
+      background-image: linear-gradient(90deg, #ef9b3d 0%, #fb8717 100%);
+    }
+
+    .cardbg3 {
+      background-image: linear-gradient(90deg, #e54b4d 0%, #e13d3f 100%);
+    }
+
+    .tatalincomeimg {
+      margin-top: -9px;
+      background-color: #24242445;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      padding-left: 8px;
+      padding-top: 7px;
+      margin-left: 41px;
+    }
+
+    .tatalincomeimg11 {
+      margin-top: -9px;
+      background-color: #24242445;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      padding-left: 8px;
+      padding-top: 7px;
+      margin-left: 30px;
+    }
+
+    .tatalincomeimg22 {
+      margin-top: -9px;
+      background-color: #24242445;
+      width: 45px;
+      height: 45px;
+      border-radius: 50%;
+      padding-left: 10px;
+      padding-top: 7px;
+      margin-left: 60px;
+    }
+
+    .Total_Income {
+      font-size: 26px;
+      line-height: 30px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+    }
+
+    .Total_Income11 {
+      font-size: 26px;
+      line-height: 30px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+    }
+
+    .Total_Income22 {
+      font-size: 26px;
+      line-height: 30px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+    }
+
+    .Total_Income1 {
+      font-size: 20px;
+      line-height: 30px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 500;
+      margin-right: 62px;
+    }
+
+    .tatalincomeimg1 {
+      font-size: 20px;
+      line-height: 30px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 500;
+    }
+
+    .monthlyic {
+      font-size: 12px;
+      line-height: 0px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+      margin-top: -8px;
+    }
+
+    .monthlyic1 {
+      font-size: 12px;
+      line-height: 0px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+      margin-top: -8px;
+    }
+
+    .card-bodyp {
+      padding: 10px;
+    }
+
+    /* pi 2nd content */
+    .pl1st {
+      font-size: 10px;
+      letter-spacing: 0px;
+      color: #00191f;
+      font-family: "Roboto";
+      font-weight: 700;
+    }
+
+    .holetextcontent {
+      margin-top: 27px;
+      padding-left: 20px;
+      border-bottom: 1px solid #e3e3e3;
+    }
+
+    .holetextcontent1 {
+      margin-top: 27px;
+      padding-left: 20px;
+      border-bottom: 1px solid #e3e3e3;
+    }
+
+    .forgaping {
+      margin-top: -10px;
+    }
+
+    .years21 {
+      width: 340px;
+      height: 30px;
+      background-color: #0e558f;
+      margin-left: 91px;
+      font-size: 11px;
+      letter-spacing: 0px;
+      color: #f8f8f8;
+      font-family: "Roboto";
+      font-weight: 700;
+      padding-left: 20px;
+      padding-top: 6px;
+    }
+
+    .years8 {
+      width: 180px;
+      height: 30px;
+      background-color: #2ca02c;
+      margin-left: 73px;
+      margin-top: -16px;
+      font-size: 11px;
+      letter-spacing: 0px;
+      color: #f8f8f8;
+      font-family: "Roboto";
+      font-weight: 700;
+      padding-left: 20px;
+      padding-top: 6px;
+    }
+
+    .years211 {
+      width: 340px;
+      height: 30px;
+      background-color: #0e558f;
+      margin-left: 34px;
+      font-size: 11px;
+      letter-spacing: 0px;
+      color: #f8f8f8;
+      font-family: "Roboto";
+      font-weight: 700;
+      padding-left: 20px;
+      padding-top: 6px;
+    }
+
+    .years81 {
+      width: 180px;
+      height: 30px;
+      background-color: #2ca02c;
+      margin-left: 51px;
+      margin-top: -16px;
+      font-size: 11px;
+      letter-spacing: 0px;
+      color: #f8f8f8;
+      font-family: "Roboto";
+      font-weight: 700;
+      padding-left: 20px;
+      padding-top: 6px;
+    }
+
+    .fordivition {
+      margin-top: 8px;
+    }
+
+    .tpi {
+      margin-top: 15px;
+      padding-left: 20px;
+    }
+
+    .canv {
+      display: block;
+      width: 281px;
+      height: 142px;
+      margin-top: 20px;
+    }
+
+    .data {
+      font-size: 10px;
+      letter-spacing: 0px;
+      line-height: 0px;
+      color: #3f3f3f;
+      font-family: "Roboto";
+      font-weight: 700;
+      text-align: center;
+      background-color: #dadada;
+    }
+
+    .data1 {
+      font-size: 10px;
+      letter-spacing: 0px;
+      line-height: 0px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 700;
+      text-align: center;
+      background-color: #369233;
+    }
+
+    .data2 {
+      font-size: 10px;
+      letter-spacing: 0px;
+      line-height: 0px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 700;
+      text-align: center;
+      background-color: #0e558f;
+    }
+
+    .lineheight {
+      line-height: 0px;
+    }
+
+    .tdata {
+      font-size: 10px;
+      line-height: 0px;
+      color: #3f3f3f;
+      font-family: "Roboto";
+      font-weight: 400;
+      text-align: center;
+    }
+
+    .forbgdash {
+      background-color: white;
+      border-radius: 10px;
+    }
+
+    .forvideodashbord {
+      height: 199px;
+      border-radius: 10px;
+    }
+
+    /* for las t section  for table*/
+    .Loan_Term_Comparison {
+      font-size: 20px;
+      letter-spacing: 0px;
+      line-height: 30px;
+      color: #000000;
+      font-family: "Roboto";
+      font-weight: 500;
+      padding-top: 24px;
+      padding-bottom: 10px;
+      padding-left: 10px;
+    }
+
+    /* for table background */
+    .tablebgcolor {
+      background-color: #e7eaf0;
+      border-radius: 10px;
+    }
+
+    .bluecoloronly {
+      width: 100%;
+      height: 10px;
+      background-color: #0e558f;
+      margin-top: -16px;
+    }
+
+    .greencolor {
+      color: #0f790f;
+      font-size: 14px;
+      font-family: "Roboto";
+      font-weight: 500;
+    }
+
+    .greencolor1 {
+      font-size: 14px;
+      letter-spacing: 0px;
+      line-height: 24px;
+      color: #000000;
+      font-family: "Roboto";
+      font-weight: 400;
+      margin-bottom: -10px;
+    }
+
+    .greencolor2 {
+      padding-top: 20px;
+      padding-left: 12px;
+      background-color: white;
+      padding-bottom: 14px;
+      border-bottom-right-radius: 10px;
+      border-bottom-left-radius: 10px;
+    }
+
+    .forpaddin2sideinblue {
+      padding-top: 25px;
+    }
+    .forpaddin2sideinblue1 {
+      padding-left: 20px;
+      padding-right: 20px;
+      border-bottom: 2px solid #03467d;
+      padding-bottom: 10px;
+    }
+    /* for blue side img */
+    .forbluesideimg {
+    }
+
+    .willsmithimage {
+      height: 65px;
+      width: 65px;
+      border-radius: 50%;
+      border: 3px solid white;
+    }
+
+    .danial_mitev_textpd {
+      padding-left: 10px;
+    }
+
+    .danial_mitev_textpd1 {
+      font-size: 20px;
+      line-height: 22px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 400;
+    }
+
+    .danial_mitev_textpd2 {
+      border-radius: 13px;
+      background-color: #09529e;
+      font-size: 13px;
+      letter-spacing: 1px;
+      line-height: 22px;
+      color: #ffffff;
+      font-family: "Roboto";
+      font-weight: 500;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+
+    .eyeicon {
+      color: #ffffff;
+      padding-top: 7px;
+      padding-bottom: 7px;
+      padding-right: 20px;
+    }
+    .ttt {
+      font-size: 14px;
+      color: #ffffff;
+      font-weight: 500;
+      font-family: "Roboto";
+      padding-top: 3px;
+    }
+    .formyaccountde {
+      padding-top: 12px;
+      margin-bottom: -3px !important;
+    }
+    .formyaccountde1 {
+      margin-top: -4px;
+      margin-bottom: -3px !important;
+    }
+
+    .mob {
+      display: none !important;
+    }
+
+    .desk {
+      display: block !important;
+    }
+    @media(min-width:768px) {
+      .mob {
+        display: none !important;
+      }
+      
+      .desk {
+        display: block !important;
+      } 
+    }
+    @media (max-width: 767px) {
+      .mob {
+        display: block !important;
+      }
+
+      .desk {
+        display: none !important;
+      }
+      .Dashboard_for{
+       display: none !important;
+     }
+     .about_aip{
+      text-align: center !important;
+     }
+     .next{
+      background: transparent !important;
+    }
+    .rightwhitesidesignd{
+      height: auto !important; 
+    }
+  }
+  @media  (max-width: 550px) {
+    /* start of phone styles */
+    .years21,.years8,.years211,.years81 {
+      margin-left:0px;
+      width: 100%;
+    }
+    .pl1st{
+      width: 100%;
+    }
+    .about_aip {
+      font-size: 50px !important;
+    }
+    .wellcomedm,.wellcomedm1{
+      font-size:22px !important;
+    }
+    .next{
+      background: transparent !important;
+    }
+    .rightwhitesidesignd{
+      height: auto !important; 
+    }
+     .about_aip{
+      text-align: center !important;
+     }
+     .Property_Value{
+       display: none;
+     }
+     .labeldata{
+       display: block;       
+    font-size: 13.5px;
+    color: #6d6c6c;
+    font-family: "Roboto";
+    font-weight: 400;
+    background-color: #eaeaea;
+    border-radius: 25px;
+    padding-top: 9px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding: 0.7rem 1rem;
+    width: 100%;
+    }    
+
+.forvideodashbord {
+  height: 270px;
+  border-radius: 10px;
+  margin-top: 1rem;
+
+}
+.tablebgcolor{
+  margin-bottom: 1rem;
+
+}
+  }
+@media  (max-width: 420px) {
+  .resbtn{
+    display: flex;
+  }
+
+}
+
+@media  (max-width: 360px) {
+  /* start of phone styles */
+  .years21,.years8,.years211,.years81 {
+    margin-top:0px;
+    margin-left:0px;
+    width: 80%;
+    height: 50px;
+  }
+  .pl1st{
+    width: 100%;
+  }
+}

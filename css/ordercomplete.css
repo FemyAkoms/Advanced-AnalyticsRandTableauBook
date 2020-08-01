@@ -1,0 +1,221 @@
+.coinandtree {
+    background-image: url("../images/Dashboard_banner.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 162px;
+    width: 100%;
+}
+
+.about_aip {
+
+    font-size: 60px;
+    line-height: 50px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding-top: 50px;
+}
+
+.about_aip1 {
+    margin-top: 0px;
+}
+
+.home_on_image {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #339933;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.angleright {
+    color: rgb(156, 156, 156);
+    padding-left: 20px;
+}
+
+.ABOUT_AIP_SOFTWARE {
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 40px;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-weight: 700;
+    padding-left: 20px;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.thankuyou_for {
+    font-size: 45px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-top: 60px;
+}
+
+.thankuyou_for1 {}
+
+.thankuyou_for2 {
+    height: 50px;
+}
+
+.thankuyou_forid1 {
+    font-size: 14px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-left: 30px;
+}
+
+.thankuyou_forid {
+    font-size: 14px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -12px;
+}
+
+.thankuyou_foridchange {
+    font-size: 14px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -35px;
+}
+
+.thankuyou_foridchange1 {
+    color: rgb(56, 156, 64);
+    margin-left: 26px;
+    background-color: #dcf2e2;
+    padding-top: 11px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+.Ahrefs_Standard{
+    font-size: 25px;
+    line-height: 50px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.monthly_week{
+   
+}
+.for999{
+    font-size: 25px;
+line-height: 35px;
+color: #389732;
+font-family: "Roboto";
+font-weight: 700;
+}
+.for9991{
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+.for9992{
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+.monthly_week{
+    font-size: 25px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -24px;
+}
+.ahssption{
+    margin-top: -15px;
+}
+.forpaddingmain{
+    padding-left: 20px;
+}
+.subtotalde{
+    font-size: 20px;
+line-height: 35px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 500;
+margin-top: 33px;
+}
+.subtotalde1{
+    font-size: 19px;
+    line-height: 35px;
+    color: #000000;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -18px;
+}
+.subtotalde2{
+    font-size: 25px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 700;
+    margin-top: 33px;
+}
+.subtotalde3{
+    font-size: 24px;
+    line-height: 35px;
+    color: #389732;
+    font-family: "Roboto";
+    font-weight: 400;
+    margin-top: -18px;
+}
+.fortotalcalculation{
+    font-size: 20px;
+line-height: 35px;
+color: #000000;
+font-family: "Roboto";
+font-weight: 700;
+}
+.fortotalcalculation1{
+    font-size: 25px;
+line-height: 35px;
+color: #389732;
+font-family: "Roboto";
+font-weight: 700;
+}
+.subtotalbackgroundd{
+    border-bottom: 1px solid
+    rgb(214, 211, 211);
+    border-top: 1px solid
+    rgb(207, 207, 207);
+}
+.subtotalbackgroundd1{
+    background-color:
+    #e8e7e5;
+    padding-top: 30px;
+}
+.fortotalcalculation2{
+    text-align: center;
+    margin-top: 50PX;
+    color: #106d09;
+    border: 1px solid#389732;
+    background-color:#c5f0c5;
+font-size: 18px;
+line-height: 35px;
+font-family: "Roboto";
+font-weight: 400;
+font-style: italic;
+width: 100%;
+height: 50px;
+margin-bottom: 35px;
+padding-top: 7px;
+}
+.belabose{
+    margin-bottom: 100px;
+}
